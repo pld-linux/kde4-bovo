@@ -4,12 +4,12 @@
 
 Summary:	bovo
 Name:		kde4-%{orgname}
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	254958fbef0d26ad88da2b69cc38c4c2
+# Source0-md5:	7f70d038d5d68dd0aa5efed9e4580f82
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	phonon-devel >= 4.3.80
